@@ -149,8 +149,8 @@ plt.plot(X_feature[:,1], X_feature @ coefs, color='red')
 plt.xlabel('Square Feet')
 plt.ylabel('Price')
 plt.title('Price vs Square Feet')
-plt.show()
 plt.savefig('Dataset_lec_2/Price_vs_Square_Feet.png')
+plt.show()
 
 
 
