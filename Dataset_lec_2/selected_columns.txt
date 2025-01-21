@@ -1,0 +1,4 @@
+Square_Feet
+Garage_Size
+Location_Score
+Distance_to_Center
